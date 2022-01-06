@@ -20,7 +20,7 @@ I have developed many successful sites so far with mentioned skills.
 
 **Connect with me:**
 - 💬 Telegram : [@NinjaDeDev](https://t.me/NinjaDeDev)
-- 💬 Discord  : SmartDev#7171
+- 💬 Discord  : SuperSmart#7171
 - 📝 Email : smartdev@innovdevteam.com
 
 **Languages and Tools:**   
