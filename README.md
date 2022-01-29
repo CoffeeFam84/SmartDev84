@@ -1,5 +1,5 @@
 
-### Hey 👋🏽, I'm [SuperSmart](https://t.me/NinjaDeDev)  
+### Hey 👋🏽, I'm [SmartDev](https://t.me/NinjaDeDev)  
 
 <br/>
 
@@ -39,4 +39,4 @@ I have developed many successful sites so far with mentioned skills.
 
 
 
-⭐️ From [supersmart](https://github.com/smartdev84)
+⭐️ From [smartdev](https://github.com/smartdev84)
