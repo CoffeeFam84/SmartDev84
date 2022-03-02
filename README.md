@@ -1,5 +1,5 @@
 
-### Hey 👋🏽, I'm [SmartDev](https://t.me/NinjaDeDev)  
+### Hey 👋🏽, I'm [SmartDev](https://t.me/SuperSmart84)  
 
 <br/>
 
@@ -19,7 +19,8 @@ I have developed many successful sites so far with mentioned skills.
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 💬 Telegram : [@NinjaDeDev](https://t.me/NinjaDeDev)
+- 💬 Telegram : [@SuperSmart84](https://t.me/SuperSmart84)
+- 💬 Discord: SuperSmart#7171
 - 📝 Email : smartdev@innovdevteam.com
 
 **Languages and Tools:**   
