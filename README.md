@@ -18,10 +18,6 @@ I have developed many successful sites so far with mentioned skills.
 - 🌱 I’m currently learning Cloud Computing
 - 📫 Ask me about anything, I am happy to help
 
-**Connect with me:**
-- 💬 Telegram : [@SuperSmart84](https://t.me/SuperSmart84)
-- 💬 Discord: SuperSmart#7171
-- 📝 Email : smartdev@innovdevteam.com
 
 **Languages and Tools:**   
 
