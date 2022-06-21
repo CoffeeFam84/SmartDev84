@@ -1,5 +1,5 @@
 
-### Hey 👋🏽, I'm [SmartDev](https://t.me/SuperSmart84)  
+### Hey 👋🏽, I'm [Dr.Smart](https://t.me/SuperSmart84)  
 
 <br/>
 
@@ -36,4 +36,4 @@ I have developed many successful sites so far with mentioned skills.
 
 
 
-⭐️ From [smartdev](https://github.com/smartdev84)
+⭐️ From [Dr.Smart](https://github.com/smartdev84)
