@@ -1,7 +1,7 @@
 
 <h2 align="center">Sr. Smart Contract + Web3 + Frontend Engineer</h2>
-### Hey 👋🏽, I'm [Dr.Smart](https://t.me/SuperSmart84)  
 
+### Hey 👋🏽, I'm [Dr.Smart](https://t.me/SuperSmart84)  
 <br/>
 
 Hi, I'm SmartDev, a Blockchain and Cryptocurrency Developer 🚀, currently, I have rich experience with Blockchain, Ethereum, Yield Farming, Smart Contract, DEFI and NFT marketplace. I develop website using React.js, Redux, web3.js, Vue.js, Express, Node.js, Laravel and etc.
