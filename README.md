@@ -1,4 +1,5 @@
 
+<h2 align="center">Sr. Smart Contract + Web3 + Frontend Engineer</h2>
 ### Hey 👋🏽, I'm [Dr.Smart](https://t.me/SuperSmart84)  
 
 <br/>
